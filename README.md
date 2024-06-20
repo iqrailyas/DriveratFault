@@ -1,1 +1,1 @@
-Developing a machine learning model to predict driver fault in car accidents. This final project for my Machine Learning course at Middlesex University Dubai analyzes traffic accident data to identify key factors and improve model accuracy.
+Developed a machine learning model to predict driver faults in car accidents. This final project for my Machine Learning course at Middlesex University Dubai analyzes traffic accident data to identify critical factors and improve model accuracy.
